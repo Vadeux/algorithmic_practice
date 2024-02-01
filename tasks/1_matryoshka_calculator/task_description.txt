@@ -1,0 +1,8 @@
+Implement simple calculator:
+    - Digits: from 0 to 9.
+    - Operations: plus (+), minus (-), times (*), divided_by (/).
+
+Expected output:
+zero(times(four()))) -> 0 * 4 -> 0
+one(plus(two()))) -> 1 + 2 -> 3
+five(minus(nine())) -> 5 - 9 -> -4
