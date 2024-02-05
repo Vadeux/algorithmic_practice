@@ -1,0 +1,22 @@
+Show all possible operations with singe node list tree
+
+1. Create linked node list.
+2. Get linked node list as list of values.
+3. Get size of linked node list.
+4. Reverse linked node list.
+
+5. Insert node at list beginning.
+6. Remove first node.
+
+7. Insert node at list ending.
+8. Remove last node.
+
+9. Insert node by position.
+10. Remove node by position.
+
+11. Update node by position.
+
+12. Find middle list element
+
+13. Merge 2 node lists one by one. l1 = 1->2->3->4->5, l2 = 6->7->8->9->10
+output: l1: 1->6->2->7->3->8->4->9->5->10, l2: empty.
